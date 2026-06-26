@@ -43,8 +43,13 @@ A collection of my LeetCode solutions in C++ for Data Structures, Algorithms, an
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kshitij-1061/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
+## Two Pointers
+|  |
+| ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kshitij-1061/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
