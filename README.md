@@ -39,4 +39,12 @@ A collection of my LeetCode solutions in C++ for Data Structures, Algorithms, an
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+## Linked List
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
