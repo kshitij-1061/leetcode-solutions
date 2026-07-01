@@ -52,4 +52,12 @@ A collection of my LeetCode solutions in C++ for Data Structures, Algorithms, an
 |  |
 | ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kshitij-1061/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
