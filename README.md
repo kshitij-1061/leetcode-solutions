@@ -38,6 +38,7 @@ A collection of my LeetCode solutions in C++ for Data Structures, Algorithms, an
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Linked List
 |  |
@@ -56,8 +57,13 @@ A collection of my LeetCode solutions in C++ for Data Structures, Algorithms, an
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0001-two-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
