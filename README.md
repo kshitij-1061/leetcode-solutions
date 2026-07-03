@@ -62,8 +62,17 @@ A collection of my LeetCode solutions in C++ for Data Structures, Algorithms, an
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0013-roman-to-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
