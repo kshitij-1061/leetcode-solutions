@@ -58,15 +58,18 @@ A collection of my LeetCode solutions in C++ for Data Structures, Algorithms, an
 | ------- |
 | [0001-two-sum](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -75,4 +78,12 @@ A collection of my LeetCode solutions in C++ for Data Structures, Algorithms, an
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0013-roman-to-integer) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
