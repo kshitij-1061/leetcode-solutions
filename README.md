@@ -58,6 +58,7 @@ A collection of my LeetCode solutions in C++ for Data Structures, Algorithms, an
 | ------- |
 | [0001-two-sum](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0229-majority-element-ii) |
 ## Hash Table
@@ -71,6 +72,7 @@ A collection of my LeetCode solutions in C++ for Data Structures, Algorithms, an
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0169-majority-element) |
 ## Math
 |  |
@@ -90,4 +92,8 @@ A collection of my LeetCode solutions in C++ for Data Structures, Algorithms, an
 | ------- |
 | [0169-majority-element](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0229-majority-element-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
