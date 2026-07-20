@@ -52,6 +52,7 @@ A collection of my LeetCode solutions in C++ for Data Structures, Algorithms, an
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kshitij-1061/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/kshitij-1061/leetcode-solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Array
@@ -62,6 +63,7 @@ A collection of my LeetCode solutions in C++ for Data Structures, Algorithms, an
 | [0053-maximum-subarray](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/kshitij-1061/leetcode-solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
 |  |
