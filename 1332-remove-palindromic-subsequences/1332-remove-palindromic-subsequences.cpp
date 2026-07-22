@@ -5,16 +5,13 @@ public:
          if(n==0){
             return 0;
          }
-       int left=0;
-       int right=n-1;
+       string t= s;
+       reverse(t.begin(),t.end());
       
-       while(left<right){
-        if(s[left]!=s[right]){
+       for(int i=0;i<n;i++){
+        if(s[i]!=t[i]){
            return 2; 
         }
-        left++;
-        right--;
-
        }
        return 1;
     }
