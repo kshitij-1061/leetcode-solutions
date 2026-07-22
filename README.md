@@ -53,6 +53,7 @@ A collection of my LeetCode solutions in C++ for Data Structures, Algorithms, an
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [1332-remove-palindromic-subsequences](https://github.com/kshitij-1061/leetcode-solutions/tree/master/1332-remove-palindromic-subsequences) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kshitij-1061/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/kshitij-1061/leetcode-solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Array
@@ -88,6 +89,7 @@ A collection of my LeetCode solutions in C++ for Data Structures, Algorithms, an
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [1332-remove-palindromic-subsequences](https://github.com/kshitij-1061/leetcode-solutions/tree/master/1332-remove-palindromic-subsequences) |
 ## Sorting
 |  |
 | ------- |
