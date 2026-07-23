@@ -1,4 +1,4 @@
-class Solution {
+/*class Solution {
 public:
     int majorityElement(vector<int>& nums) {
         int candidate = 0, count = 0;
@@ -15,23 +15,25 @@ public:
 
         return candidate;
     }
-};
-/*class Solution {
+};*/
+class Solution {
 public:
     int majorityElement(vector<int>& nums) {
     int count=0;
     int candidate=0;
     for(int num:nums){
-        if(count==0){
+        if(count==0)
             candidate=num;
-        }else if(num==candidate){
+        
+        if(num==candidate)
             count++;
-        }else{
+        
+        else
             count--;
-        }
-
+        
+        
     }
       
      return candidate;
     }
-};*/
+};
