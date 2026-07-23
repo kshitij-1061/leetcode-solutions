@@ -22,15 +22,16 @@ public:
     int count=0;
     int candidate=0;
     for(int num:nums){
-        if(count==0)
+        if(count==0){
             candidate=num;
-        
-        if(num==candidate)
+           
+        }
+        if(num==candidate){
             count++;
-        
-        else
+        }
+        else{
             count--;
-        
+        }
         
     }
       
