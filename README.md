@@ -7,6 +7,7 @@ A collection of my LeetCode solutions in C++ for Data Structures, Algorithms, an
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of my LeetCode solutions in C++ for Data Structures, Algorithms, an
 | [0169-majority-element](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/kshitij-1061/leetcode-solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
 |  |
@@ -75,6 +77,7 @@ A collection of my LeetCode solutions in C++ for Data Structures, Algorithms, an
 | [0073-set-matrix-zeroes](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0496-next-greater-element-i](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -108,4 +111,8 @@ A collection of my LeetCode solutions in C++ for Data Structures, Algorithms, an
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/kshitij-1061/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
